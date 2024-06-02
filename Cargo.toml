@@ -1,0 +1,11 @@
+[package]
+name = "EZDB"
+version = "0.1.15"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "General types and functions that I use a lot"
+homepage = "https://github.com/lord-hellgrim/hallib-rs"
+repository = "https://github.com/lord-hellgrim/hallib-rs"
+readme = "README.md"
+
+[dependencies]
