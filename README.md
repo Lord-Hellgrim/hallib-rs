@@ -1,0 +1,1 @@
+Just a couple general things I use in more than one project.
